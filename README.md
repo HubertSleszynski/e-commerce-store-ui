@@ -4,11 +4,12 @@ This repository is a React-based e-commerce website UI project, utilizing Tailwi
 
 ## Demo
 
-LIVE: [link](https://65fd8e6de8ba200d4299cba1--frolicking-cascaron-3ee906.netlify.app/)
+LIVE: [Clothing Store](https://65fd8e6de8ba200d4299cba1--frolicking-cascaron-3ee906.netlify.app/)
 
-## Screenshots
+## Screenshot
 
-![app screenshot](public/assets/google-pixelbook-mockup.png)
+
+<img src="public/assets/google-pixelbook-mockup.png" width="600">
 
 ## Tech Stack
 
@@ -16,7 +17,7 @@ Yarn Vite React TailwindCSS
 
 ## Author
 
-Hubert Śleszyński
+### Hubert Śleszyński
 
 Portfolio: https://hubertsleszynski.github.io/portfolio/
 
