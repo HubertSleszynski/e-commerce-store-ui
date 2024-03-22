@@ -4,7 +4,7 @@ This repository is a React-based e-commerce website UI project, utilizing Tailwi
 
 ## Demo
 
-LIVE: [Clothing Store](https://65fd8e6de8ba200d4299cba1--frolicking-cascaron-3ee906.netlify.app/)
+LIVE: [Clothing Store](https://hubert-sleszynski-clothing-store-ui.netlify.app/)
 
 ## Screenshot
 
